@@ -39,6 +39,3 @@ Config.WeathersZones = {
 -- SNOWLIGHT = 0x23FB812B
 -- THUNDER = 0xB677829F
 -- XMAS = 0xAAC9C895
-
--- TIME CYCLES and EXTRA timecycles
--- https://wiki.rage.mp/index.php?title=Timecycle_Modifiers
