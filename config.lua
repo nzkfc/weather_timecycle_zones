@@ -1,5 +1,8 @@
 Config = {}
 
+-- List of timecycles: https://github.com/DurtyFree/gta-v-data-dumps/blob/master/timecycleModifiers.json
+-- timcycle tool: https://github.com/Mathu-lmn/mth-timecycle
+
 Config.DefaultWeather = 'CLEAR' -- DEFAULT Weather if no Zones in Area
 Config.WeathersZones = {
     [1] = { -- mirror park
